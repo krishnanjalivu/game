@@ -1,0 +1,1 @@
+http://my-meme-game-15062000.s3-website-us-east-1.amazonaws.com/
